@@ -21,8 +21,12 @@ When you import the code, you can either:
 1) **Run it from the editor**
 2) **Run it from the CMD**
 
-#### Run it from the Editor
+### Run it from the Editor
+Navigate to `Area.HC.Z` file, press space to load it into an editor. Now press `F5` to run it.
+![Screenshot](IMG/editor.png)
 
+The view from the editor. Here press `F5` to run.
+![Screenshot](IMG/Editor2.png)
 
 ### Run it from the CMD
 From the CMD, type `#include Area.HC.Z` and press `Enter`. You've just loaded the program into memory! Now type `Area;` to run it.
