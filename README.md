@@ -33,3 +33,7 @@ From the CMD, type `#include Area.HC.Z` and press `Enter`. You've just loaded th
 
 ### Quit the program
 Press `ESC` to stop it and `SHIFT + ESC` to close the program.
+
+
+### Reminder!
+> "Don't play games. Make them!", Terry A. Davis
